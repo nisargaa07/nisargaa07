@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nisarga Patil</h1>
 <h3 align="center">a final-year BTech student specializing in Artificial Intelligence and Data Science. 🚀 I'm passionate about leveraging technology to solve real-world problems and constantly explore new areas in: 🧠 Machine Learning 📊 Data Science 🤖 AI Development.</h3>
 <img src="https://github.com/user-attachments/assets/e10ffd4e-e103-4b14-bfa2-431868aa9e5e"
-alt="description" width="400" align="right">
+alt="description" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisargaa07&label=Profile%20views&color=0e75b6&style=flat" alt="nisargaa07" /> </p>
 
 - 🌱 I’m currently learning  Machine Learning & Data Science, Data Analytics Tools.
