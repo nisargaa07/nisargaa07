@@ -1,5 +1,5 @@
 ![logo](https://github.com/nisargaa07/nisargaa07/blob/main/Hi%2C%20I%20am%20Nisarga.png)
-<h1 align="center">Hi 👋, I'm Nisarga Ptil</h1>
+<h1 align="center">Hi 👋, I'm Nisarga Patil</h1>
 <h3 align="center">a final-year BTech student specializing in Artificial Intelligence and Data Science. 🚀 I'm passionate about leveraging technology to solve real-world problems and constantly explore new areas in: 🧠 Machine Learning 📊 Data Science 🤖 AI Development.</h3>
 <img src="https://github.com/user-attachments/assets/e10ffd4e-e103-4b14-bfa2-431868aa9e5e"
 alt="description" width="400" align="right">
