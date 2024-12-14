@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisarga Ptil</h1>
 <h3 align="center">a final-year BTech student specializing in Artificial Intelligence and Data Science. 🚀 I'm passionate about leveraging technology to solve real-world problems and constantly explore new areas in: 🧠 Machine Learning 📊 Data Science 🤖 AI Development.</h3>
-<img src="https://github.com/user-attachments/assets/6e625bd8-baac-4604-9ead-4cd22fd42ead"
+<img src="https://github.com/user-attachments/assets/e10ffd4e-e103-4b14-bfa2-431868aa9e5e"
 alt="description" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisargaa07&label=Profile%20views&color=0e75b6&style=flat" alt="nisargaa07" /> </p>
 
